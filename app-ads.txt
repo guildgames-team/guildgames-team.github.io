@@ -1,0 +1,12 @@
+# app-ads.txt for Kitchen Uprising (com.GuildGames.kitchenuprising)
+# Authorized sellers of this app's ad inventory (IAB Tech Lab app-ads.txt standard).
+#
+# BEFORE PUBLISHING: replace every line below the marker with the exact list from the
+# Unity dashboard (LevelPlay > app-ads.txt). That list carries your real publisher IDs
+# for LevelPlay and every network you enable (Unity Ads today; AdMob/AppLovin later).
+# Re-download and republish it whenever you add an ad network.
+#
+# Must be served as plain text at the ROOT of the developer website in your Play
+# listing, e.g. https://<your-github-username>.github.io/app-ads.txt
+# ---- paste the dashboard lines below this marker ----
+unity.com, REPLACE_WITH_UNITY_ORGANIZATION_CORE_ID, DIRECT, 96cabb5fbdde37a7
